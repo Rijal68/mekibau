@@ -931,7 +931,7 @@ cd /root/limit
     git commit -m m &> /dev/null
     git branch -M main &> /dev/null
     git remote add origin https://github.com/Rijal68/limit
-    git push -f https://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@github.com/Rijal68/limit.git &> /dev/null
+    git push -f https://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@github.com/Rijal68/limit.git &> /dev/null
 cd
 fi
 #send status install
